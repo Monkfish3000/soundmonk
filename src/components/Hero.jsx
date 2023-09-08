@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <section className="text-center my-20">
-      <h1 className="text-4xl">Lorem, ipsum dolor.</h1>
+      <h1 className="text-3xl">Lorem, ipsum dolor.</h1>
       <p className="text-xl mt-2 mb-7">
         Lorem ipsum dolor sit amet consectetur adipisicing.
       </p>

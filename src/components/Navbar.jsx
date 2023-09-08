@@ -2,10 +2,10 @@ import List from './List';
 
 const Navbar = () => {
   return (
-    <header className="h-28 border-b">
-      <div className="flex items-center justify-between py-2 mx-2">
+    <header className="h-18 sm:h-28 border-b">
+      <div className="flex flex-col sm:flex-row items-center justify-between py-2 mx-2">
         <img
-          className="w-20 rounded-3xl"
+          className="w-12 rounded-3xl sm:w-20"
           src="./logoWithText.png"
           alt="SoundMonk logo"
         />
