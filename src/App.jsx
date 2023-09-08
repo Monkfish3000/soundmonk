@@ -4,9 +4,11 @@ import { Navbar, Hero, Footer } from './components';
 function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
-      <Footer />
+      <div className="max-w-7xl m-auto">
+        <Navbar />
+        <Hero />
+        <Footer />
+      </div>
     </>
   );
 }
