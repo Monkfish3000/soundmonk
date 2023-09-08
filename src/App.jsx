@@ -1,5 +1,5 @@
 import './App.css';
-import { Navbar, Hero, Footer } from './components';
+import { Navbar, Hero, Footer, CardShowcase } from './components';
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <div className="max-w-7xl m-auto">
         <Navbar />
         <Hero />
+        <CardShowcase />
         <Footer />
       </div>
     </>
