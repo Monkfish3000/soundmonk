@@ -12,7 +12,7 @@ const Navbar = () => {
         <nav>
           <List
             style={
-              'p-3 text-lg hover:bg-custom-purple-medium hover:cursor-pointer rounded hover:text-red-900'
+              'p-3 text-lg hover:bg-custom-purple-medium hover:cursor-pointer rounded hover:text-custom-green'
             }
             items={['Home', 'Products', 'Our Story']}
           />

@@ -8,6 +8,7 @@ export default {
         'custom-purple-light': '#F4EFFB',
         'custom-purple-medium': '#B6A5CA',
         'custom-raisin-black': '#140F1A',
+        'custom-green': '#286766',
       },
     },
   },
